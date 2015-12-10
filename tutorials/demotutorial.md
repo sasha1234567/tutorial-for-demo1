@@ -1,5 +1,5 @@
 ---
-title: demo sprint 32
+title: demo sprint 32 the demo is over
 description: example
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
