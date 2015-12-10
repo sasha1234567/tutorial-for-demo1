@@ -1,6 +1,6 @@
 ---
-title: example
-description: example
+title: How to become a super developer
+description: You will learn how to become a super developer
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
 
