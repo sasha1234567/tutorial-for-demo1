@@ -1,7 +1,7 @@
 ---
 layout: tutorial
-title: Hana Configure Tutorial from Github - Lalit is testing!
-description: Tutorial Renamed 
+title: Hana Configure Tutorial from Github
+description: Connect with HANA Studio, get several Eclipse perspectives 
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial:technology/sql, tutorial:technology/nonexisting]
 ---
 ## HANA 101 - Getting Started, and connecting the Web Workbench
